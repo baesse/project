@@ -1,4 +1,3 @@
-# project
-BarEmBar
+# BAREMBAR
 
 Projeto no qual gerencia festas/bars
